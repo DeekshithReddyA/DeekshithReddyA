@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a III year CSE(AI&ML) Student in Hyderabad<br>Currently working on TarsAI.chat (All models at one place + MCP) <br>Interested in AI&ML, Web Development<br>Open for Opportunities and Networking.
+I'm a IV year CSE(AI&ML) Student in Hyderabad<br>Currently working on TarsAI.chat (All models at one place + MCP) <br>Interested in AI&ML, Web Development<br>Open for Opportunities and Networking.
 
 
 ## 🌐 Socials:
