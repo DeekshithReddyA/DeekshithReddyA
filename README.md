@@ -9,7 +9,7 @@ I'm a IV year CSE(AI&ML) Student in Hyderabad<br>Currently working on TarsAI.cha
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/deekshithreddy1910" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/deekshithreddy_" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(deekshithreddy351@gmail.com)]
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(deekshithreddy351@gmail.com)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DeekshithReddyA&limit=5&theme=dark&combine_all_yearly_contributions=true)
