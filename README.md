@@ -2,7 +2,7 @@
 I'm a IV year CSE(AI&ML) Student in Hyderabad<br>Currently working on TarsAI.chat (All models at one place + MCP) <br>Interested in AI&ML, Web Development<br>Open for Opportunities and Networking.
 
 ## Portfolio:
-https:itsdeeks.site
+https://itsdeeks.site
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deekshithreddy1910)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/deekshith1910)
